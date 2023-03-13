@@ -1,11 +1,11 @@
-### Hi there 👋 
-### This is Camilo Ortiz!
+### Hola 👋 
+### Soy Camilo Ortiz!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/camilortizdev)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/camilortizdev/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:admin@camilortiz.com)
 
-Welcome to my Github page, I'm Camilo and I'm currently studying Full Stack Developer with JavaScript at Platzi!  
+Bienvenido a mi página de Github , actualmente estoy estudiando "Desarrollador Full Stack con JavaScript" en Platzi!  
 
 <img align="right" alt="img" src="https://avatars.githubusercontent.com/u/103149894?s=400&u=d6ec3fad9491e08ae9c80db869c888128067360e&v=4" width="50%" height="auto" />
 
