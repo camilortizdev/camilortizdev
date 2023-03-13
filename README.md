@@ -9,18 +9,15 @@ Welcome to my Github page, I'm Camilo and I'm currently studying Full Stack Deve
 
 <img align="right" alt="img" src="https://avatars.githubusercontent.com/u/103149894?s=400&u=d6ec3fad9491e08ae9c80db869c888128067360e&v=4" width="50%" height="auto" />
 
+Hola 👋
+¡Soy Camilo Ortiz!
+Un diseñador gráfico y desarrollador web con más de 2 años de experiencia en ambos campos. Me encanta trabajar con clientes para crear diseños únicos y efectivos, y llevarlos a la vida a través de la programación.
 
-#### 🌱 Things I am currently working on: 
-- Finish my studies as a full stack developer with JavaScript.  
-- Do a specialization in frontend and backend.
-- Finish my studies as a ui-ux.
+Mi especialización es en la creación de sitios web con WordPress, donde he trabajado con diversos proyectos y personalizando los diseños según las necesidades de mis clientes. Además, estoy en constante aprendizaje y crecimiento, actualmente estoy estudiando Full Stack Developer con JavaScript en @Platzi para ampliar aún más mis habilidades y conocimientos técnicos.
 
-#### :muscle: Things I'm challenging myself with:
-- Do 2 personal projects a week.
-- Code at least 2 hours a day.
-- Exercise 3 days a week
-- Improve my CV with some training other than university.
+Lo que me enorgullece de mi trabajo es poder colaborar con clientes en proyectos desafiantes y creativos. Me apasiona encontrar soluciones a los desafíos que se presentan, y ayudar a los clientes a alcanzar sus objetivos a través de mi trabajo.
 
+Si buscas un diseñador gráfico y desarrollador web que sea creativo, apasionado y comprometido con tus necesidades, ¡no dudes en contactarme! Estoy seguro de que puedo ayudarte a alcanzar tus objetivos en línea.
 #### :computer: Programming languages and tools: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=camilortizdev&show_icons=true&hide_border=true" />
